@@ -1,0 +1,7 @@
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe.config
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\bin\Debug\Arquitectura.pdb
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\obj\Debug\Arquitectura.exe
+C:\Users\ferna\source\repos\Arquitectura\Arquitectura\obj\Debug\Arquitectura.pdb
